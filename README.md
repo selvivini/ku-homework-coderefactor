@@ -6,7 +6,7 @@
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](\assets\images\homework-demo.png)
+![code refactor demo](/assets/images/homework-demo.png)
 
 ## Github page of the application 
 
