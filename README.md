@@ -10,4 +10,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Github page of the application 
 
-![coderefactor live](https://selvivini.github.io/ku-homework-coderefactor/)
+[coderefactor live](https://selvivini.github.io/ku-homework-coderefactor/)
